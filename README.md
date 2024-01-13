@@ -1,8 +1,8 @@
-# The Hackurriculum: Zero to Hacker
+# Hackatomik Courses
 
-Hackatómica's zero-to-hacker curriculum. How to hack education.
+Hackatomik's curriculum. How to hack education.
 
-![zero-to-hacker](https://socialify.git.ci/hackatomica/zero-to-hacker/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
+![zero-to-hacker](https://socialify.git.ci/hackatomik/courses/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Circuit%20Board&pulls=1&stargazers=1&theme=Light)
 
 ## What
 
@@ -20,7 +20,7 @@ We are working to give a better and more meaningful education for mathematics an
 
 ## How
 
-This curriculum has two comprehensive guides: [uni🦄](/uni%F0%9F%A6%84/), the university-oriented learning path, and [hacker🐧](/hacker%F0%9F%90%A7/), for those who want even more.
+This curriculum has two comprehensive guides: `uni🦄`, the university-oriented learning path, and `hacker🐧`, for those who want even more.
 
 Both are designed to provide a hands-on learning with real-world case studies. We want to make mathematics and computer science education fun, but furthermore, useful.
 
